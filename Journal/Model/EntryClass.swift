@@ -1,5 +1,5 @@
 //
-//  Entry+CoreDataClass.swift
+//  EntryClass.swift
 //  Journal
 //
 //

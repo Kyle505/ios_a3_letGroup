@@ -1,5 +1,5 @@
 //
-//  Entry+CoreDataProperties.swift
+//  EntryProperties.swift
 //  Journal
 //
 //
